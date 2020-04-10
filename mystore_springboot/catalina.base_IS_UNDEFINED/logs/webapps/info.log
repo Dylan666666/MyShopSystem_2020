@@ -1,0 +1,13 @@
+2020-04-10 16:09:31.557 [main] INFO  com.oym.o2o.O2oApplication - Starting O2oApplication on LAPTOP-E5ODUTLC with PID 8940 (O:\MyStore\mystore_springboot\target\classes started by 14396 in O:\MyStore\mystore_springboot)
+2020-04-10 16:09:31.567 [main] INFO  com.oym.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2020-04-10 16:10:52.416 [main] INFO  com.oym.o2o.O2oApplication - Starting O2oApplication on LAPTOP-E5ODUTLC with PID 24084 (O:\MyStore\mystore_springboot\target\classes started by 14396 in O:\MyStore\mystore_springboot)
+2020-04-10 16:10:52.419 [main] INFO  com.oym.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2020-04-10 16:11:22.357 [main] INFO  com.oym.o2o.O2oApplication - Starting O2oApplication on LAPTOP-E5ODUTLC with PID 22164 (O:\MyStore\mystore_springboot\target\classes started by 14396 in O:\MyStore\mystore_springboot)
+2020-04-10 16:11:22.366 [main] INFO  com.oym.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2020-04-10 16:11:24.477 [main] INFO  com.oym.o2o.O2oApplication - Started O2oApplication in 2.475 seconds (JVM running for 3.44)
+2020-04-10 16:14:12.818 [main] INFO  com.oym.o2o.O2oApplication - Starting O2oApplication on LAPTOP-E5ODUTLC with PID 27936 (O:\MyStore\mystore_springboot\target\classes started by 14396 in O:\MyStore\mystore_springboot)
+2020-04-10 16:14:12.823 [main] INFO  com.oym.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2020-04-10 16:14:14.957 [main] INFO  com.oym.o2o.O2oApplication - Started O2oApplication in 2.436 seconds (JVM running for 3.398)
+2020-04-10 16:16:53.254 [main] INFO  com.oym.o2o.O2oApplication - Starting O2oApplication on LAPTOP-E5ODUTLC with PID 23216 (O:\MyStore\mystore_springboot\target\classes started by 14396 in O:\MyStore\mystore_springboot)
+2020-04-10 16:16:53.257 [main] INFO  com.oym.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2020-04-10 16:16:55.366 [main] INFO  com.oym.o2o.O2oApplication - Started O2oApplication in 2.452 seconds (JVM running for 3.49)

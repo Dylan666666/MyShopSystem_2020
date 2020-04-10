@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="mystore_ssm:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa56839b-7932-48ab-95c3-aeb167e292c0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="O:/jar包/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="O:\jar包\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y8tbSZI1k34JVNmhofUKusVvSz" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.15895197" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="O:\MyStore\mystore_ssm\src\main\webapp\resources\css\shop" />
+      <recent name="O:\MyStore\mystore_ssm\src\main\webapp\WEB-INF\html\shop" />
+      <recent name="O:\MyStore\mystore_ssm\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.oym.ssm" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.oym.ssm.dao.split" />
+      <recent name="com.oym.ssm.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="O:\MyStore\mystore_ssm" />
+      <recent name="O:\MyStore\mystore_ssm\src\main\resources" />
+      <recent name="O:\MyStore\mystore_ssm\src\test" />
+      <recent name="O:\MyStore\mystore_ssm\src\test\resources" />
+      <recent name="O:\MyStore\mystore_ssm\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AreaDaoTest.testQueryArea">
+    <configuration name="AreaDaoTest.testQueryArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mystore_ssm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oym.ssm.o2o.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.oym.ssm.o2o.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.oym.ssm.o2o.dao.AreaDaoTest" />
+      <option name="METHOD_NAME" value="testQueryArea" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalAuthDaoTest.testQueryLocalById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mystore_ssm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oym.ssm.o2o.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.oym.ssm.o2o.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.oym.ssm.o2o.dao.LocalAuthDaoTest" />
+      <option name="METHOD_NAME" value="testQueryLocalById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalAuthDaoTest.testQueryLocalByUserNameAndPwd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mystore_ssm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oym.ssm.o2o.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.oym.ssm.o2o.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.oym.ssm.o2o.dao.LocalAuthDaoTest" />
+      <option name="METHOD_NAME" value="testQueryLocalByUserNameAndPwd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalAuthServiceTest.testGetLocalAuthByUsernameAndPwd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mystore_ssm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oym.ssm.o2o.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.oym.ssm.o2o.service" />
+      <option name="MAIN_CLASS_NAME" value="com.oym.ssm.o2o.service.LocalAuthServiceTest" />
+      <option name="METHOD_NAME" value="testGetLocalAuthByUsernameAndPwd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalAuthServiceTest.testModifyLocalAuth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mystore_ssm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oym.ssm.o2o.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.oym.ssm.o2o.service" />
+      <option name="MAIN_CLASS_NAME" value="com.oym.ssm.o2o.service.LocalAuthServiceTest" />
+      <option name="METHOD_NAME" value="testModifyLocalAuth" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.261" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="o2o:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_o2o" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58950" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="o2o:war exploded" />
+          <artifact name="mystore_ssm:war" />
+          <artifact name="mystore_ssm:war exploded" />
+          <artifact name="o2o:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="mystore_ssm" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.26" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="mystore_ssm:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_261_o2o" />
+        <option name="DEPLOY_TOMCAT_APPS" value="true" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58950" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="mystore_ssm:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.LocalAuthServiceTest.testModifyLocalAuth" />
+      <item itemvalue="JUnit.LocalAuthServiceTest.testGetLocalAuthByUsernameAndPwd" />
+      <item itemvalue="JUnit.LocalAuthDaoTest.testQueryLocalByUserNameAndPwd" />
+      <item itemvalue="JUnit.LocalAuthDaoTest.testQueryLocalById" />
+      <item itemvalue="JUnit.AreaDaoTest.testQueryArea" />
+      <item itemvalue="Tomcat Server.mystore_ssm" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AreaDaoTest.testQueryArea" />
+        <item itemvalue="JUnit.LocalAuthServiceTest.testModifyLocalAuth" />
+        <item itemvalue="JUnit.LocalAuthServiceTest.testGetLocalAuthByUsernameAndPwd" />
+        <item itemvalue="JUnit.LocalAuthDaoTest.testQueryLocalById" />
+        <item itemvalue="JUnit.LocalAuthDaoTest.testQueryLocalByUserNameAndPwd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa56839b-7932-48ab-95c3-aeb167e292c0" name="Default Changelist" comment="" />
+      <created>1582336120147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582336120147</updated>
+      <workItem from="1582336124336" duration="1377000" />
+      <workItem from="1582337701330" duration="21294000" />
+      <workItem from="1582421765338" duration="15369000" />
+      <workItem from="1582509436380" duration="17408000" />
+      <workItem from="1582596661589" duration="28919000" />
+      <workItem from="1582685115997" duration="17052000" />
+      <workItem from="1582767088915" duration="25637000" />
+      <workItem from="1582854671160" duration="8824000" />
+      <workItem from="1582884154085" duration="1893000" />
+      <workItem from="1582941050911" duration="10978000" />
+      <workItem from="1583030457260" duration="18833000" />
+      <workItem from="1583114683860" duration="21242000" />
+      <workItem from="1583204148354" duration="24714000" />
+      <workItem from="1583288523830" duration="17033000" />
+      <workItem from="1583375213164" duration="20020000" />
+      <workItem from="1583461945033" duration="12890000" />
+      <workItem from="1583667092380" duration="8286000" />
+      <workItem from="1583714787344" duration="18563000" />
+      <workItem from="1583801237571" duration="3934000" />
+      <workItem from="1583891705036" duration="20811000" />
+      <workItem from="1583980690222" duration="8891000" />
+      <workItem from="1583995219776" duration="11223000" />
+      <workItem from="1584063353673" duration="1863000" />
+      <workItem from="1584066858571" duration="597000" />
+      <workItem from="1584069807716" duration="11056000" />
+      <workItem from="1584153449748" duration="599000" />
+      <workItem from="1584238127079" duration="21667000" />
+      <workItem from="1584325051946" duration="16132000" />
+      <workItem from="1584419598307" duration="3669000" />
+      <workItem from="1584500866906" duration="1959000" />
+      <workItem from="1584668588548" duration="23000" />
+      <workItem from="1585017952855" duration="13723000" />
+      <workItem from="1585101922851" duration="15969000" />
+      <workItem from="1585185712518" duration="21161000" />
+      <workItem from="1585272525461" duration="1240000" />
+      <workItem from="1585362884772" duration="8050000" />
+      <workItem from="1585450079942" duration="11274000" />
+      <workItem from="1585535619286" duration="10388000" />
+      <workItem from="1585621538405" duration="3258000" />
+      <workItem from="1586349427567" duration="764000" />
+      <workItem from="1586508267839" duration="1296000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
