@@ -1,5 +1,5 @@
 # MyShopSystem_2020
-核心技术：Springboot + spring + mybatis + redis 
+核心技术：[Springboot + mybatis + mysql + redis] 
 ----
 ### 本项目用SSM框架开发了第一个版本，Springboot的加入后升级开发了店铺积分等功能，使项目更完善。但并未完善微信登陆和二维码生成等功能，以后有需求时可以加上。
 ### 由于我是做后端的，前端使用阿里的手机端老前端框架 SUI Mobile ,现在的话其实用Light7更好。
